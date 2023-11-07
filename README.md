@@ -20,6 +20,16 @@ By default, Source Language is English
 Choose Language to Translate the Result
 Speak option is available
 
+## system flow diagram
+![image](https://github.com/khanaisahana/smartCam/assets/67268473/0ffdb50b-789c-4f21-8eca-323d3b1a9239)
+
+
+## object detect
+![image](https://github.com/khanaisahana/smartCam/assets/67268473/2faa41ab-9940-4e39-af08-800e150c26f6)
+
+## text detect
+![Uploading image.png…]()
+
 
 Object detection and text detection are two important applications of machine learning that can be accomplished using the TensorFlow library. 
 Object detection involves identifying and localizing objects within an image or video stream. This technique has numerous applications, such as in self-driving cars, surveillance systems, and medical imaging.
