@@ -24,11 +24,11 @@ Speak option is available
 ![image](https://github.com/khanaisahana/smartCam/assets/67268473/0ffdb50b-789c-4f21-8eca-323d3b1a9239)
 
 
-## object detect
+## text detect
 ![image](https://github.com/khanaisahana/smartCam/assets/67268473/2faa41ab-9940-4e39-af08-800e150c26f6)
 
-## text detect
-![Uploading image.png…]()
+
+
 
 
 Object detection and text detection are two important applications of machine learning that can be accomplished using the TensorFlow library. 
