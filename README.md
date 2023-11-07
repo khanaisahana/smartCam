@@ -1,4 +1,4 @@
-![image](https://github.com/khanaisahana/smartCam/assets/67268473/0d09636f-7e15-4276-85ee-46506a215f0e)# smart_cam
+# smart_cam
 ## AI based picture translation app
 
 AI based picture translation app uses this AI-powered photo translation system to identify the object and text to translate them into the user’s desired language.
