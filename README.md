@@ -1,4 +1,4 @@
-#### smartCam
+# smartCam
 ## AI based picture translation app
 
 AI based picture translation app uses this AI-powered photo translation system to identify the object and text to translate them into the user’s desired language.
@@ -7,14 +7,14 @@ Similarly, for Text, we are using Text Detection from Tensorflow to recognize th
 It translates the text or object into a preferred language. 
 
 The system comprises 2 major modules with their sub-modules as follows:
-# 1.    Object Detect
+### 1.    Object Detect
 Capture or choose any photo of an Object
 By default, Source Language is English
 Choose Language to Translate the Result
 Speak option available
 
 
-# 2.    Text Detect
+### 2.    Text Detect
 Capture or choose any photo to Translate text in that Photo
 By default, Source Language is English
 Choose Language to Translate the Result
