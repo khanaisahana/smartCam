@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gradle-wrapper.jar
 /.gradle
 /captures/
@@ -11,3 +12,6 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+=======
+
+>>>>>>> ccf0faaeac5b4c829ade908bd083de0871fe099f
